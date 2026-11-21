@@ -72,6 +72,42 @@ Central Park is famous for being the first major landscaped public park in the U
 </div>
 </details>
 
+
+2.California:
+<details>
+    <summary>CALIFORNIA/summary>
+    California (officially the State of California) is a major state located on the West Coast of the United States, bordered by the Pacific Ocean to the west, Oregon to the north, Nevada and Arizona to the east, and the Mexican state of Baja California to the south. Admitted to the Union as the 31st state on September 9, 1850, it is the most populous U.S. state with nearly 40 million residents and the third-largest by land area.
+
+    ##Place to visit in California
+    <details>
+        <summary>1.Golden Gold Bridge/summary>
+        <summary>2.National Park/summary>
+
+    1.Golden Gate Bridge:
+    The Golden Gate Bridge is an iconic suspension bridge in the United States that spans the Golden Gate, a 1-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean. It links the northern tip of the San Francisco Peninsula to Marin County, carrying U.S. Route 101 and California State Route 1.
+    <img src = https://cdn.pixabay.com/photo/2016/11/29/07/59/architecture-1868265_1280.jpg     >
+      
+    2.National Park:A national park is a natural or cultural area protected and owned by a national or central government to preserve wildlife, ecosystems, and scenic beauty for future generations
+    <img src=https://cdn.pixabay.com/photo/2026/06/25/13/22/13-22-10-23_1280.jpg>
+
+    3.Chicago:
+<details>
+    <summary>CHICAGO/summary>
+    Chicago is an international hub for finance, culture, commerce, industry, education, technology, telecommunications, and transportation. It has the largest and.. 
+    
+    ##Places to visit in Chicago
+    <details>
+        <summary>1.chicago Museum/summary>
+        <summary>2.Millenium Park/summary>
+
+    1.Griffin Museum:
+    The Griffin Museum of Science and Industry is the largest museum in Chicago (and the largest science museum in the Western Hemisphere), occupying a 14-acre complex with more than 400,000 square feet of exhibition space inside the historic Palace of Fine Arts
+        <img src= https://cdn.pixabay.com/photo/2020/05/02/00/14/museum-of-science-and-industry-5119410_1280.jpg>
+
+    2.Mellineum Park:
+    Millennium Park is a world-renowned public park located in the heart of downtown Chicago, Illinois. Opened in July 2004, it covers 24.5 acres of northwestern Grant Park and is famously recognized as one of the world's largest green roofs, having been built on top of a former railroad yard and parking garages.
+        <img src=https://cdn.pixabay.com/photo/2014/09/26/09/33/girls-462072_1280.jpg>
+
 ### Summary
 
 The details of the 3 cities in New York are given below:
