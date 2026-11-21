@@ -71,24 +71,35 @@ Central Park is famous for being the first major landscaped public park in the U
 
 </div>
 </details>
-
+<br/>
 
 2.California:
 <details>
     <summary>CALIFORNIA/summary>
     California (officially the State of California) is a major state located on the West Coast of the United States, bordered by the Pacific Ocean to the west, Oregon to the north, Nevada and Arizona to the east, and the Mexican state of Baja California to the south. Admitted to the Union as the 31st state on September 9, 1850, it is the most populous U.S. state with nearly 40 million residents and the third-largest by land area.
 
-    ##Place to visit in California
+    ## Place to visit in California
     <details>
-        <summary>1.Golden Gold Bridge/summary>
-        <summary>2.National Park/summary>
+    <summary>1.Golden Gold Bridge</summary>
+    <summary>2.National Park</summary>
 
     1.Golden Gate Bridge:
     The Golden Gate Bridge is an iconic suspension bridge in the United States that spans the Golden Gate, a 1-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean. It links the northern tip of the San Francisco Peninsula to Marin County, carrying U.S. Route 101 and California State Route 1.
-    <img src = https://cdn.pixabay.com/photo/2016/11/29/07/59/architecture-1868265_1280.jpg     >
-      
+    <img src = "https://cdn.pixabay.com/photo/2016/11/29/07/59/architecture-1868265_1280.jpg">
+</div>
+</details>
+
+</div>
+</details>  
+
     2.National Park:A national park is a natural or cultural area protected and owned by a national or central government to preserve wildlife, ecosystems, and scenic beauty for future generations
-    <img src=https://cdn.pixabay.com/photo/2026/06/25/13/22/13-22-10-23_1280.jpg>
+    <img src="https://cdn.pixabay.com/photo/2026/06/25/13/22/13-22-10-23_1280.jpg">
+
+</div>
+</details>
+
+</div>
+</details>
 
     3.Chicago:
 <details>
