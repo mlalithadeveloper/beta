@@ -133,9 +133,9 @@ Millennium Park is a world-renowned public park located in the heart of downtown
 The details of the 3 cities in New York are given below:
 
 
-| SlNo | City | Known For | Food |
+| SlNo | City | Known For | Food | Population |
 |---|---|---|---|
-| 1 | New York | Entertainment | Style Pizza |
-| 2 | California | Museums | Avocado Toast |
-| 3 | Chicago | Architecture | Hot Dogs |
+| 1 | New York | Entertainment | Style Pizza | 10,00,000 |
+| 2 | California | Museums | Avocado Toast |12,500,000 |
+| 3 | Chicago | Architecture | Hot Dogs | 9,00,000 |
 
