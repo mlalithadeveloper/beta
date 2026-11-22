@@ -136,6 +136,6 @@ The details of the 3 cities in New York are given below:
 | SlNo | City | Known For | Food | Population |
 |---|---|---|---|---|
 | 1 | New York | Entertainment | Style Pizza | 10,00,000 |
-| 2 | California | Museums | Avocado Toast |12,500,000 |
+| 2 | California | Museums | Avocado Toast |12,50,000 |
 | 3 | Chicago | Architecture | Hot Dogs | 9,00,000 |
 
