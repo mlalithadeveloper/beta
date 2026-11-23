@@ -16,7 +16,7 @@ New York City (NYC) is the most populous city in the United States, serving as a
 <!-- LEVEL 1 ATTRACTION: STATUE OF LIBERTY -->
 <details>
 <summary>Statue of Liberty</summary>
-<div style="margin-left: 20px;">
+<div style="margin-left: 50px;">
 
 The Statue of Liberty (officially named Liberty Enlightening the World) is a colossal neoclassical copper sculpture on Liberty Island in New York Harbor. Given to the United States by the people of France to celebrate the centennial of the American Declaration of Independence and mutual friendship, it was dedicated on October 28, 1886.
 
