@@ -82,8 +82,12 @@ California (officially the State of California) is a major state located on the 
 <details>
 <summary><d>Golden Gate Bridge<d></summary>
 <div style="margin-left: 20px;">
-Golden Gate Bridge:
-    The Golden Gate Bridge is an iconic suspension bridge in the United States that spans the Golden Gate, a 1-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean. It links the northern tip of the San Francisco Peninsula to Marin County, carrying U.S. Route 101 and California State Route 1.
+ The Golden Gate Bridge is an iconic suspension bridge in the United States that spans the Golden Gate, a 1-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean. It links the northern tip of the San Francisco Peninsula to Marin County, carrying U.S. Route 101 and California State Route 1.
+
+<!-- LEVEL 2 MEDIA -->
+<details>
+    <summary><d>Images<d></summary>
+    <div style="margin-left: 20px;"> 
     <img src="https://cdn.pixabay.com/photo/2016/11/29/07/59/architecture-1868265_1280.jpg">
 
 <details>
