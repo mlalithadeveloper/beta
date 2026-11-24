@@ -16,7 +16,7 @@ New York City (NYC) is the most populous city in the United States, serving as a
 <!-- LEVEL 1 ATTRACTION: STATUE OF LIBERTY -->
 <details>
 <summary>Statue of Liberty</summary>
-<div style="margin-left: 50px;">
+<p style="margin-left: 30px;">This paragraph has a 30-pixel left margin.</p>
 
 The Statue of Liberty (officially named Liberty Enlightening the World) is a colossal neoclassical copper sculpture on Liberty Island in New York Harbor. Given to the United States by the people of France to celebrate the centennial of the American Declaration of Independence and mutual friendship, it was dedicated on October 28, 1886.
 
@@ -95,6 +95,11 @@ California (officially the State of California) is a major state located on the 
 <div style="margin-left: 20px;">
 National Park:
     A national park is a natural or cultural area protected and owned by a national or central government to preserve wildlife, ecosystems, and scenic beauty for future generations
+   
+<!-- LEVEL 2 MEDIA -->
+<details>
+    <summary><d>Images<d></summary>
+    <div style="margin-left: 20px;"> 
     <img src="https://cdn.pixabay.com/photo/2026/06/25/13/22/13-22-10-23_1280.jpg">
 
 </div>
